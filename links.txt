@@ -1,0 +1,54 @@
+- UML - Overview
+http://www.tutorialspoint.com/uml/uml_overview.htm
+
+- Free Online IDE and Terminal
+http://www.tutorialspoint.com/codingground.htm
+
+- Operating System Tutorial
+http://www.tutorialspoint.com/operating_system/index.htm
+
+- Penetration Testing Tutorial
+http://www.tutorialspoint.com/penetration_testing/index.htm
+
+- Python 3 tutorial
+http://www.tutorialspoint.com/python3/index.htm
+
+- Git Tutorial
+http://www.tutorialspoint.com/git/index.htm
+
+- Personal Branding Tutorial
+http://www.tutorialspoint.com/personal_branding/index.htm
+
+- Tcl/Tk Tutorial
+http://www.tutorialspoint.com/tcl-tk/index.htm
+
+- HTML5 Tutorial
+http://www.tutorialspoint.com/html5/index.htm
+
+- R Tutorial
+http://www.tutorialspoint.com/r/index.htm
+
+- class - Python: Pokemon battle (classes, functions) - Stack Overflow
+http://stackoverflow.com/questions/11706505/python-pokemon-battle-classes-functions
+
+- Pokémon Game v1.0 (Basic)
+http://www.enigmagroup.org/forums/python/pokemon-game-v1-0-(basic)/
+
+- Pokémon Game v1.0 (Basic)
+http://www.enigmagroup.org/forums/python/pokemon-game-v1-0-(basic)/
+
+- python - A turn based battle simulator (aka Pokémon) - Code Review Stack Exchange
+http://codereview.stackexchange.com/questions/94116/a-turn-based-battle-simulator-aka-pok%C3%A9mon
+
+- Pokemon Battle Clone : pygame
+https://www.reddit.com/r/pygame/comments/2g0cj9/pokemon_battle_clone/
+
+- python - Pokémon style battle game - Code Review Stack Exchange
+http://codereview.stackexchange.com/questions/100852/pok%C3%A9mon-style-battle-game
+
+
+
+- SQLite Tutorial
+http://www.tutorialspoint.com/sqlite/index.htm
+
+
