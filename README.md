@@ -1,2 +1,2 @@
 # python_oo
-Object Oriented Python class solutions
+Object Oriented Python class support materials
