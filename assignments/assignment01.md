@@ -1,18 +1,15 @@
-Dungeon Dudes
-===
+#Dungeon Dudes
 For this assignment, you'll create a simple role-playing game. This game will include:
 *	Heroes
 *	Monsters
 *	Treasures
 *	A Quest or Adventure
-Game Play
----
+##Game Play
 A hero will make their way through the adventure. The adventure will have rooms, caves, or glens in a forest but each is a distinct location. You should describe the location as the hero enters. 
 
 In each location the hero is met with various monsters. The monsters may attack first or the heroes may get the jump on the monsters. When you enter a location the hero and the monsters roll for Initiative. Highest roll on a d6 attacks first. There may be more than one monster in any location. Use this fact to adjust the difficulty of the game.
 
-Attack mechanics:
----
+###Attack mechanics:
 A hero rolls dice for combat. A hero will roll three dice (d6). Monsters roll from one to three dice (d6) depending on the size and strength of the monster. If the attacker's highest die equals or exceeds the defender's highest die then the attack hits.
 
 A hero can attack a monster and a monster can attack a hero. 
@@ -32,11 +29,9 @@ Provide the hero with a menu of choices. At any time the hero should be able to:
 *	list out the number of hits left for a monster
 *	attack the monster
 Once a hero moves to a location the roll for initiative is automatic for the monster and the hero.
-Requirements
----
+##Requirements
 The name of your github repository should be called dungeon_dudes. The name of the program should be called dungeon_dudes. The game should implement all the basic mechanics described in Attack Mechanics. The game should be written in Python 3.4. You should be able to start the game from the command line.
-Optional Flourishes
----
+##Optional Flourishes
 One of the treasures can be an attack enhancing potion. Give the hero the choice to use this in one battle. If the hero uses the potion it gives the hero one more die (d6) to use in an attack. Once the potion has been used in a battle it is expended and cannot be used again.
 
 Give the hero the ability to run away from a battle. You will need to provide more than one pathway through a map. A sketch of the area and a Map object may help you here.
