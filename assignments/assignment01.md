@@ -4,6 +4,8 @@ For this assignment, you'll create a simple role-playing game. This game will in
 *	Monsters
 *	Treasures
 *	A Quest or Adventure
+	
+
 ## Game Play
 A hero will make their way through the adventure. The adventure will have rooms, caves, or glens in a forest but each is a distinct location. You should describe the location as the hero enters. 
 
@@ -28,9 +30,12 @@ Provide the hero with a menu of choices. At any time the hero should be able to:
 *	list out their number of hits left (health)
 *	list out the number of hits left for a monster
 *	attack the monster
+
 Once a hero moves to a location the roll for initiative is automatic for the monster and the hero.
+
 ## Requirements
 The name of your github repository should be called dungeon_dudes. The name of the program should be called dungeon_dudes. The game should implement all the basic mechanics described in Attack Mechanics. The game should be written in Python 3.4. You should be able to start the game from the command line.
+
 ## Optional Flourishes
 One of the treasures can be an attack enhancing potion. Give the hero the choice to use this in one battle. If the hero uses the potion it gives the hero one more die (d6) to use in an attack. Once the potion has been used in a battle it is expended and cannot be used again.
 
