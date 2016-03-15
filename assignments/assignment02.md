@@ -19,19 +19,19 @@ Write an interactive fiction game. It may be as deep or shallow as you like, tho
 	
 The following verbs must be supported:
 
-LIGHT x
-EXAMINE x
-GET/TAKE x
-DROP x
-PUT x IN y
-NORTH
-WEST
-SOUTH
-EAST
-UP
-DOWN
-WAIT
-ENTER x
-EXIT x
+	LIGHT x
+	EXAMINE x
+	GET/TAKE x
+	DROP x
+	PUT x IN y
+	NORTH
+	WEST
+	SOUTH
+	EAST
+	UP
+	DOWN
+	WAIT
+	ENTER x
+	EXIT x
 
 Though other paths to victory are, naturally, preferred. This must be a game with a parser, not a simple hyperlink game (such as one made with Twine http://twinery.org/2/).
