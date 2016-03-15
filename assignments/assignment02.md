@@ -38,3 +38,5 @@ The following verbs must be supported:
 	ATTACH
 
 Though other paths to victory are, naturally, preferred. This must be a game with a parser, not a simple hyperlink game (such as one made with Twine http://twinery.org/2/).
+
+Call the program `journey.py`. Place the program in a repo as `interfic`.
