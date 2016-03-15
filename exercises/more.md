@@ -6,8 +6,11 @@
 ### Medium
 1. Write a function `char_freq()` that takes a string and builds a frequency listing of the characters contained in it. Represent the frequency listing as a Python dictionary. Try it with something like `char_freq("abbabcbdbabdbdbabababcbcbab")`.
 2. Write a program that plays Rock, Paper, Scissors. The user should pick a random choice: r, p, or s and then see the one the program picked. (We'll assume the computer isn't cheating by picking after the user.) Keep track of the score. Print the results as you go through the game. Give the user an option to quit.
+
 ### Difficult
+
 1. An anagram is a type of word play, the result of rearranging the letters of a word or phrase to produce a new word or phrase, using all the original letters exactly once; e.g., orchestra = carthorse. Using the word list at http://www.puzzlers.org/pub/wordlists/unixdict.txt, write a program that finds the sets of words that share the same characters that contain the most words in them.
+
 
 
 
