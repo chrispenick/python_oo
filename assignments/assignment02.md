@@ -11,11 +11,11 @@ Write an interactive fiction game. It may be as deep or shallow as you like, tho
 	LIGHT FIRE
 	WAIT
 	PUT EDELWEISS IN FIRE
-	ATTACH HELMET TO STATUE
-	SHOW PRISM TO PICKLE
+	PUT HELMET IN STATUE
+	PUT PRISM IN PICKLE
 	EXIT CAVE
 	NORTH
-	PONDER MEANING OF LIFE
+	GET MEANING OF LIFE
 	
 The following verbs must be supported:
 
@@ -33,9 +33,6 @@ The following verbs must be supported:
 	WAIT
 	ENTER x
 	EXIT x
-	PONDER X
-	SHOW X
-	ATTACH
 
 Though other paths to victory are, naturally, preferred. This must be a game with a parser, not a simple hyperlink game (such as one made with Twine http://twinery.org/2/).
 
