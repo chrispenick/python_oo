@@ -1,0 +1,19 @@
+book Design Patterns 0-201-63361-2
+Categories
+Creational: How can an object be created?
+	Singleton
+	Factory
+	Prototype
+
+Structural: Designs to satisfy particular project constraints. Mostly about connection between objects
+
+Behavioral: How objects handle types of actions within the program.
+
+1. Syntax
+2. Logical
+3. Idiom
+
+4. Specific Design - solution solves a particular problem, no attempt to be general
+5. Standard Design - solution solves a KIND (type) of problem
+6. Design Pattern - how to solve an entire class of !problems!
+
