@@ -1,5 +1,5 @@
-|  Grades  | Weight | 90-100  | 80-89  | 70-79  | 60-69  | 50-59  |
-|---|---|---|---|---|---|
+|  Grades  |   Weight   | 90-100  | 80-89  | 70-79  | 60-69  | 50-59  |
+|---|---|---|---|---|---|---|
 | Correct  |   35%   | Program runs with no errors. All requirements are met. At least one optional feature is implemented.  | Program runs with no errors. All requirements are met.  | Program can be made to crash with unusual input, or some minor requirements are missing.  | Program can be made to crash, or some requirements are missing.  | Program crashes during normal operation, or many requirements are missing.  |
 | Readable  |   10%   | Code is consistently formatted. Variable and function names clearly indicate what they do or are used for. Docstrings are used appropriately.  | One or two formatting inconsistencies, or one or two poorly-named variables or functions.  | Formatting inconsistencies in large or multiple areas, or a number of poorly-named variables or functions.  | Extremely inconsistent formatting, or many poorly-named variables.  | No pattern or logic to formatting.  |
 | Usable|   5%   | The program is extremely usable; interfaces are well documented, even for a novice user.  | The code is usable and has decent user documentation.  | The code is usable with one or a couple of non-intuitive and/or undocumented features.  | The code is usable with many non-intuitive and/or undocumented features.  | The code is unusable and/or lacks instructions.  |
